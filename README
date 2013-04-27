@@ -4,3 +4,10 @@ Dependencies
 * Python 2.7 (or, likely, 3.3)
 * vobject
 
+
+Examples
+--------
+
+./vcard2mutt ~/Downloads/Alice\ B\ and\ 144\ others\ \(1\).vcf ~/.mutt/aliases
+./vcard2phonebook ~/Downloads/Alice\ B\ and\ 144\ others\ \(1\).vcf phonebook.csv
+
